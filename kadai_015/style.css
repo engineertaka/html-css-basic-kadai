@@ -2,7 +2,7 @@ html {
   font-size: 20px;
 }
 body {
-  font-family: "arial", "Meiryo", sans-serif;
+  font-family: "Arial", "Meiryo", sans-serif;
 }
 h1 {
   font-family: "Josefin Sans", sans-serif;
@@ -10,6 +10,7 @@ h1 {
   text-shadow: 1px 1px 2px blue;
   font-size: 2rem;
   letter-spacing: 1.2em;
+  border-bottom: solid 3px black;
 }
 .text-pink {
     color: rgb(255, 192, 203);
@@ -31,6 +32,6 @@ h2 {
 p {
   text-align: center;
 }
-#basic .bold-text {
+#basic > p {
   font-weight: bold;
 }
