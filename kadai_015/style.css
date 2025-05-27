@@ -15,12 +15,12 @@ h1 {
 .text-pink {
     color: rgb(255, 192, 203);
 }
-.text-skyblue {
-  color: skyblue;
+.text-blue {
+  color: rgb(135, 206, 235);
 }
 
-h2, #basic, .blue {
-  color: #87ceeb;
+.blue {
+  color: rgb(135, 206, 235);
 }
 
 .pink {
